@@ -1,6 +1,0 @@
-streamlit
-uuid
-matplotlib
-seaborn
-numpy
-pandas
